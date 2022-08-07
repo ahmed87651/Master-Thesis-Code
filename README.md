@@ -54,11 +54,13 @@ For the code of "Image_Classifcation_ResNet152_Without_Aug" & "Image_Classifcati
 
 https://colab.research.google.com/drive/1Aszgx2k-j1Nwcrxvdo1q2sPk8rtaPKM6?usp=sharing 
 https://colab.research.google.com/drive/1MQjpgM1KBE4Rg6Q1fxTLpvWEw84d2P69?usp=sharing
+
 =============================================
 
 For the code of "Scaled_YOLOv4_Without_Aug"
  
 https://colab.research.google.com/drive/1c47w6bVuaQyv3PYx0z3l2j8dI_gWIxUn?usp=sharing
+
 ==============================================
 
 For the code of "Darknet_YOLOv4_Without_Aug"
