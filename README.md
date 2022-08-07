@@ -14,7 +14,7 @@ In order to run the code on your machine just run each cell with following the c
 
 
 
-<<<Datasets without Aug>>>
+<Datasets without Aug>
 
 
 https://drive.google.com/file/d/1l3tSXC0vHoiZJUXlsFl9H1CpMor4_xDx/view?usp=sharing >>>> For the code of "Image_Classifcation_ResNet152_Without_Aug" & "Image_Classifcation_ResNet50_Without_Aug"
@@ -31,7 +31,7 @@ https://drive.google.com/file/d/1yNcGRwFe5fs9VmdNOOLP5M5Q1DIyVaiB/view?usp=shari
 
 
 
-<<<Datasets with Aug>>>
+<Datasets with Aug>
 
 
 https://drive.google.com/file/d/1NUihd7JU4UPuaPr2w6O48op8UZgCqXVh/view?usp=sharing >>>> for the code of "Darknet_YOLOv4_With_Aug"
