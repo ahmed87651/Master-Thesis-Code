@@ -48,7 +48,7 @@ https://drive.google.com/file/d/1XW8PBZeTNzyx8YlIGt3mqnmeLjtaARLd/view?usp=shari
 
 ======================================================================================================================================
 
-<<<Code without Aug>>>
+Code without Aug
  
 For the code of "Image_Classifcation_ResNet152_Without_Aug" & "Image_Classifcation_ResNet50_Without_Aug"
 
@@ -69,7 +69,7 @@ https://colab.research.google.com/drive/17dVN8CdNMZYfgraSmVqW4lPJlOQkMws6?usp=sh
 
 
 
-<<<Code with Aug>>>
+Code with Aug
 
 
 For the code of "Darknet_YOLOv4_With_Aug"
